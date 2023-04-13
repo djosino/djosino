@@ -10,9 +10,9 @@
         height="150em" width="45%"
         src="https://github-readme-stats.vercel.app/api?username=djosino&show_icons=true&theme=tokyonight""
     />
-    <!--a href="https://wakatime.com/@djosino">
+    <a href="https://wakatime.com/@djosino">
       <img
         height="150em" width="45%"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=djosino&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dracula&custom_title=Week%20Stats" />
-    </a-->
+    </a>
 </p>
