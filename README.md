@@ -2,7 +2,7 @@
 ## Hi there, I'm Danilo! 😁
 
 - 💻 Working as a full back-end developer at Clicksign
-- 🏗️ Currently learning Software Architecture
+- 🏗️ Currently learning DDD
 
 <br/>
 <!--p align="center">
